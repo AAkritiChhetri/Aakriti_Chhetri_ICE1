@@ -5,6 +5,8 @@
 package card;
 import java.util.Random;
 import java.util.Scanner;
+//Aakriti Chhetri
+//991702857
 
 public class CardTrick {
 
